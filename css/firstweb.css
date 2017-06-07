@@ -65,7 +65,7 @@ html
 }
 .flexitem:hover
 {
-    transform: rotate(45deg);
+    transform: rotate(30deg);
 }
 #footer
 {
